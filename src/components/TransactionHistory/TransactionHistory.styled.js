@@ -31,6 +31,7 @@ export const TrBody = styled.tr`
 `;
 
 export const Td = styled.td`
+  text-transform: capitalize;
   text-align: center;
   font-size: 28px;
   font-weight: 400;
