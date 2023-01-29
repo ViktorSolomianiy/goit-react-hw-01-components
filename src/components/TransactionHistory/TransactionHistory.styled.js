@@ -31,6 +31,7 @@ export const TrBody = styled.tr`
 `;
 
 export const Td = styled.td`
+  text-align: center;
   font-size: 28px;
   font-weight: 400;
   padding: 20px;
