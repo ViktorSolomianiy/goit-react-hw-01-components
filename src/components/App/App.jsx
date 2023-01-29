@@ -19,7 +19,6 @@ export const App = () => {
         justifyContent: 'center',
         alignItems: 'center',
         flexDirection: 'column',
-        alignItems: 'center',
         fontSize: 40,
         color: '#010101',
       }}
